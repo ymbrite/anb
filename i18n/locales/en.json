@@ -1,0 +1,38 @@
+{
+  "brand": {
+    "title": "FuTu's Blog"
+  },
+  "nav": {
+    "home": "Home",
+    "tech": "Tech",
+    "quant": "Quant",
+    "notes": "Notes",
+    "showcase": "Showcase",
+    "about": "About"
+  },
+  "hero": {
+    "title": "Welcome to FuTu's Blog",
+    "subtitle": "Exploring technology, design, and everything in between.",
+    "read_blog": "Read Blog",
+    "github": "GitHub"
+  },
+  "latest_posts": {
+    "title": "Latest Posts",
+    "view_all": "View all"
+  },
+  "footer": {
+    "built_by": "Built by {name}.",
+    "source_code": "The source code is available on {platform}."
+  },
+  "theme": {
+    "toggle": "Toggle theme"
+  },
+  "about": {
+    "title": "About",
+    "intro": "Hi, I'm FuTu. This is my personal blog built with Nuxt 4, Tailwind CSS, and Inspira UI.",
+    "description": "I'm passionate about web development, modern UI design, and building great user experiences."
+  },
+  "language": {
+    "select": "Select Language"
+  }
+}

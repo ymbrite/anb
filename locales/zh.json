@@ -1,0 +1,37 @@
+{
+  "brand": {
+    "title": "浮屠的博客"
+  },
+  "nav": {
+    "home": "首页",
+    "blog": "博客",
+    "showcase": "展示",
+    "about": "关于"
+  },
+  "hero": {
+    "title": "欢迎来到浮屠的博客",
+    "subtitle": "探索技术、设计以及其间的一切。",
+    "read_blog": "阅读博客",
+    "github": "GitHub"
+  },
+  "about": {
+    "title": "关于",
+    "intro": "你好，我是浮屠。这是我使用 Nuxt 4, Tailwind CSS 和 Inspira UI 构建的个人博客。",
+    "description": "我热衷于 Web 开发、现代 UI 设计以及构建出色的用户体验。"
+  },
+  "latest_posts": {
+    "title": "最新文章",
+    "view_all": "查看全部"
+  },
+  "footer": {
+    "built_by": "由 {name} 构建。",
+    "source_code": "源码可在 {platform} 获取。"
+  },
+  "theme": {
+    "toggle": "切换主题"
+  },
+  "language": {
+    "select": "选择语言"
+  }
+}
+
